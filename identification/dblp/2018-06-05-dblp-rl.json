@@ -1,0 +1,304 @@
+{
+"result":{
+"query":"reinforcement* learning* personalization*|personalized*|personal*|personalisation*|personalised*|customization*|customized*|customised*|customised*|individualized*|individualised*|tailored*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"37.08"
+},
+"completions":{
+"@total":"7",
+"@computed":"7",
+"@sent":"7",
+"c":[
+{
+"@sc":"18",
+"@dc":"18",
+"@oc":"18",
+"@id":"19518324",
+"text":"personalized"
+},
+{
+"@sc":"10",
+"@dc":"10",
+"@oc":"10",
+"@id":"19518233",
+"text":"personal"
+},
+{
+"@sc":"4",
+"@dc":"4",
+"@oc":"4",
+"@id":"19518318",
+"text":"personalization"
+},
+{
+"@sc":"3",
+"@dc":"3",
+"@oc":"3",
+"@id":"19518327",
+"text":"personalizing"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"19518322",
+"text":"personalize"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"18967887",
+"text":"customized"
+},
+{
+"@sc":"1",
+"@dc":"1",
+"@oc":"1",
+"@id":"19518302",
+"text":"personality"
+}
+]
+},
+"hits":{
+"@total":"38",
+"@computed":"38",
+"@sent":"38",
+"@first":"0",
+"hit":[{
+"@score":"4",
+"@id":"1385513",
+"info":{"authors":{"author":["Pei-hao Su","Yow-Bang Wang","Tien-han Yu","Lin-Shan Lee"]},"title":"A dialogue game framework with personalized training using reinforcement learning for computer-assisted language learning.","venue":"ICASSP","pages":"8213-8217","year":"2013","type":"Conference and Workshop Papers","key":"conf/icassp/SuWYL13","doi":"10.1109/ICASSP.2013.6639266","ee":"https://doi.org/10.1109/ICASSP.2013.6639266","url":"https://dblp.org/rec/conf/icassp/SuWYL13"},
+"url":"URL#1385513"
+},
+{
+"@score":"3",
+"@id":"53863",
+"info":{"authors":{"author":["Kaixiang Mo","Yu Zhang","Shuangyin Li","Jiajun Li","Qiang Yang 0001"]},"title":"Personalizing a Dialogue System With Transfer Reinforcement Learning.","venue":"AAAI","year":"2018","type":"Conference and Workshop Papers","key":"conf/aaai/MoZLLY18","ee":"https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16104","url":"https://dblp.org/rec/conf/aaai/MoZLLY18"},
+"url":"URL#53863"
+},
+{
+"@score":"3",
+"@id":"65161",
+"info":{"authors":{"author":["Mo Zhou","Yonatan Mintz","Yoshimi Fukuoka","Ken Goldberg","Elena Flowers","Philip Kaminsky","Alejandro Castillejo","Anil Aswani"]},"title":"Personalizing Mobile Fitness Apps using Reinforcement Learning.","venue":"IUI Workshops","year":"2018","type":"Conference and Workshop Papers","key":"conf/iui/ZhouMFGFKCA18","ee":"http://ceur-ws.org/Vol-2068/humanize7.pdf","url":"https://dblp.org/rec/conf/iui/ZhouMFGFKCA18"},
+"url":"URL#65161"
+},
+{
+"@score":"3",
+"@id":"68694",
+"info":{"authors":{"author":["Min Yang","Qiang Qu","Kai Lei","Jia Zhu","Zhou Zhao","Xiaojun Chen","Joshua Zhexue Huang"]},"title":"Investigating Deep Reinforcement Learning Techniques in Personalized Dialogue Generation.","venue":"SDM","pages":"630-638","year":"2018","type":"Conference and Workshop Papers","key":"conf/sdm/YangQLZZCH18","doi":"10.1137/1.9781611975321.71","ee":"https://doi.org/10.1137/1.9781611975321.71","url":"https://dblp.org/rec/conf/sdm/YangQLZZCH18"},
+"url":"URL#68694"
+},
+{
+"@score":"3",
+"@id":"79081",
+"info":{"authors":{"author":["Brenden K. Petersen","Jiachen Yang","Will S. Grathwohl","Chase Cockrell","Claudio Santiago","Gary An","Daniel M. Faissol"]},"title":"Precision medicine as a control problem - Using simulation and deep reinforcement learning to discover adaptive, personalized multi-cytokine therapy for sepsis.","venue":"CoRR","volume":"abs/1802.10440","year":"2018","type":"Informal Publications","key":"journals/corr/abs-1802-10440","ee":"http://arxiv.org/abs/1802.10440","url":"https://dblp.org/rec/journals/corr/abs-1802-10440"},
+"url":"URL#79081"
+},
+{
+"@score":"3",
+"@id":"79769",
+"info":{"authors":{"author":["Huan Yang","Baoyuan Wang","Noranart Vesdapunt","Minyi Guo","Sing Bing Kang"]},"title":"Personalized Attention-Aware Exposure Control Using Reinforcement Learning.","venue":"CoRR","volume":"abs/1803.02269","year":"2018","type":"Informal Publications","key":"journals/corr/abs-1803-02269","ee":"http://arxiv.org/abs/1803.02269","url":"https://dblp.org/rec/journals/corr/abs-1803-02269"},
+"url":"URL#79769"
+},
+{
+"@score":"3",
+"@id":"83463",
+"info":{"authors":{"author":["Ali el Hassouni","Mark Hoogendoorn","Martijn van Otterlo","Eduardo Barbaro"]},"title":"Personalization of Health Interventions using Cluster-Based Reinforcement Learning.","venue":"CoRR","volume":"abs/1804.03592","year":"2018","type":"Informal Publications","key":"journals/corr/abs-1804-03592","ee":"http://arxiv.org/abs/1804.03592","url":"https://dblp.org/rec/journals/corr/abs-1804-03592"},
+"url":"URL#83463"
+},
+{
+"@score":"3",
+"@id":"203873",
+"info":{"authors":{"author":["Stefano Ferretti","Silvia Mirri","Catia Prandi","Paola Salomoni"]},"title":"On personalizing Web content through reinforcement learning.","venue":"Universal Access in the Information Society","volume":"16","number":"2","pages":"395-410","year":"2017","type":"Journal Articles","key":"journals/uais/FerrettiMPS17","doi":"10.1007/S10209-016-0463-2","ee":"https://doi.org/10.1007/s10209-016-0463-2","url":"https://dblp.org/rec/journals/uais/FerrettiMPS17"},
+"url":"URL#203873"
+},
+{
+"@score":"3",
+"@id":"206200",
+"info":{"authors":{"author":["Maryam M. Maleki","Vesal Hakami","Mehdi Dehghan"]},"title":"A Model-Based Reinforcement Learning Algorithm for Routing in Energy Harvesting Mobile Ad-Hoc Networks.","venue":"Wireless Personal Communications","volume":"95","number":"3","pages":"3119-3139","year":"2017","type":"Journal Articles","key":"journals/wpc/MalekiHD17","doi":"10.1007/S11277-017-3987-8","ee":"https://doi.org/10.1007/s11277-017-3987-8","url":"https://dblp.org/rec/journals/wpc/MalekiHD17"},
+"url":"URL#206200"
+},
+{
+"@score":"3",
+"@id":"206442",
+"info":{"authors":{"author":["A. Pravin Renold","S. Chandrakala"]},"title":"MRL-SCSO - Multi-agent Reinforcement Learning-Based Self-Configuration and Self-Optimization Protocol for Unattended Wireless Sensor Networks.","venue":"Wireless Personal Communications","volume":"96","number":"4","pages":"5061-5079","year":"2017","type":"Journal Articles","key":"journals/wpc/RenoldC17","doi":"10.1007/S11277-016-3729-3","ee":"https://doi.org/10.1007/s11277-016-3729-3","url":"https://dblp.org/rec/journals/wpc/RenoldC17"},
+"url":"URL#206442"
+},
+{
+"@score":"3",
+"@id":"206443",
+"info":{"authors":{"author":["A. Pravin Renold","S. Chandrakala"]},"title":"Erratum to - MRL-SCSO - Multi-agent Reinforcement Learning-Based Self-Configuration and Self-Optimization Protocol for Unattended Wireless Sensor Networks.","venue":"Wireless Personal Communications","volume":"96","number":"4","pages":"5081","year":"2017","type":"Journal Articles","key":"journals/wpc/RenoldC17a","doi":"10.1007/S11277-016-3832-5","ee":"https://doi.org/10.1007/s11277-016-3832-5","url":"https://dblp.org/rec/journals/wpc/RenoldC17a"},
+"url":"URL#206443"
+},
+{
+"@score":"3",
+"@id":"260480",
+"info":{"authors":{"author":["Hannes Ritschel","Elisabeth André"]},"title":"Real-Time Robot Personality Adaptation based on Reinforcement Learning and Social Signals.","venue":"HRI","pages":"265-266","year":"2017","type":"Conference and Workshop Papers","key":"conf/hri/RitschelA17","doi":"10.1145/3029798.3038381","ee":"http://doi.acm.org/10.1145/3029798.3038381","url":"https://dblp.org/rec/conf/hri/RitschelA17"},
+"url":"URL#260480"
+},
+{
+"@score":"3",
+"@id":"287726",
+"info":{"authors":{"author":["Sanmit Narvekar","Jivko Sinapov","Peter Stone"]},"title":"Autonomous Task Sequencing for Customized Curriculum Design in Reinforcement Learning.","venue":"IJCAI","pages":"2536-2542","year":"2017","type":"Conference and Workshop Papers","key":"conf/ijcai/NarvekarSS17","doi":"10.24963/IJCAI.2017/353","ee":"https://doi.org/10.24963/ijcai.2017/353","url":"https://dblp.org/rec/conf/ijcai/NarvekarSS17"},
+"url":"URL#287726"
+},
+{
+"@score":"3",
+"@id":"287915",
+"info":{"authors":{"author":["Pengcheng Wang","Jonathan P. Rowe","Wookhee Min","Bradford W. Mott","James C. Lester"]},"title":"Interactive Narrative Personalization with Deep Reinforcement Learning.","venue":"IJCAI","pages":"3852-3858","year":"2017","type":"Conference and Workshop Papers","key":"conf/ijcai/WangRMML17","doi":"10.24963/IJCAI.2017/538","ee":"https://doi.org/10.24963/ijcai.2017/538","url":"https://dblp.org/rec/conf/ijcai/WangRMML17"},
+"url":"URL#287915"
+},
+{
+"@score":"3",
+"@id":"317171",
+"info":{"authors":{"author":["Konstantinos Tsiakas","Michalis Papakostas","Michail Theofanidis","Morris Bell","Rada Mihalcea","Shouyi Wang","Mihai Burzo","Fillia Makedon"]},"title":"An Interactive Multisensing Framework for Personalized Human Robot Collaboration and Assistive Training Using Reinforcement Learning.","venue":"PETRA","pages":"423-427","year":"2017","type":"Conference and Workshop Papers","key":"conf/petra/TsiakasPTBMWBM17","doi":"10.1145/3056540.3076191","ee":"http://doi.acm.org/10.1145/3056540.3076191","url":"https://dblp.org/rec/conf/petra/TsiakasPTBMWBM17"},
+"url":"URL#317171"
+},
+{
+"@score":"3",
+"@id":"368685",
+"info":{"authors":{"author":["Feiyun Zhu","Jun Guo","Zheng Xu 0005","Peng Liao","Junzhou Huang"]},"title":"Group-driven Reinforcement Learning for Personalized mHealth Intervention.","venue":"CoRR","volume":"abs/1708.04001","year":"2017","type":"Informal Publications","key":"journals/corr/abs-1708-04001","ee":"http://arxiv.org/abs/1708.04001","url":"https://dblp.org/rec/journals/corr/abs-1708-04001"},
+"url":"URL#368685"
+},
+{
+"@score":"3",
+"@id":"378701",
+"info":{"authors":{"author":["Wei-Hung Weng","Mingwu Gao","Ze He","Susu Yan","Peter Szolovits"]},"title":"Representation and Reinforcement Learning for Personalized Glycemic Control in Septic Patients.","venue":"CoRR","volume":"abs/1712.00654","year":"2017","type":"Informal Publications","key":"journals/corr/abs-1712-00654","ee":"http://arxiv.org/abs/1712.00654","url":"https://dblp.org/rec/journals/corr/abs-1712-00654"},
+"url":"URL#378701"
+},
+{
+"@score":"3",
+"@id":"450493",
+"info":{"authors":{"author":["Stefano Ferretti","Silvia Mirri","Catia Prandi","Paola Salomoni"]},"title":"Automatic web content personalization through reinforcement learning.","venue":"Journal of Systems and Software","volume":"121","pages":"157-169","year":"2016","type":"Journal Articles","key":"journals/jss/FerrettiMPS16","doi":"10.1016/J.JSS.2016.02.008","ee":"https://doi.org/10.1016/j.jss.2016.02.008","url":"https://dblp.org/rec/journals/jss/FerrettiMPS16"},
+"url":"URL#450493"
+},
+{
+"@score":"3",
+"@id":"495464",
+"info":{"authors":{"author":["Angeliki V. Kordali","Panayotis G. Cottis"]},"title":"A Reinforcement-Learning Based Cognitive Scheme for Opportunistic Spectrum Access.","venue":"Wireless Personal Communications","volume":"86","number":"2","pages":"751-769","year":"2016","type":"Journal Articles","key":"journals/wpc/KordaliC16","doi":"10.1007/S11277-015-2955-4","ee":"https://doi.org/10.1007/s11277-015-2955-4","url":"https://dblp.org/rec/journals/wpc/KordaliC16"},
+"url":"URL#495464"
+},
+{
+"@score":"3",
+"@id":"539763",
+"info":{"authors":{"author":["Evangelos Tripolitakis","Georgios Chalkiadakis"]},"title":"Probabilistic Topic Modeling, Reinforcement Learning, and Crowdsourcing for Personalized Recommendations.","venue":"EUMAS/AT","pages":"157-171","year":"2016","type":"Conference and Workshop Papers","key":"conf/eumas/TripolitakisC16","doi":"10.1007/978-3-319-59294-7_14","ee":"https://doi.org/10.1007/978-3-319-59294-7_14","url":"https://dblp.org/rec/conf/eumas/TripolitakisC16"},
+"url":"URL#539763"
+},
+{
+"@score":"3",
+"@id":"610956",
+"info":{"authors":{"author":["Bjorn Tegelund","Heesuk Son","Dongman Lee"]},"title":"A task-oriented service personalization scheme for smart environments using reinforcement learning.","venue":"PerCom Workshops","pages":"1-6","year":"2016","type":"Conference and Workshop Papers","key":"conf/percom/TegelundSL16","doi":"10.1109/PERCOMW.2016.7457110","ee":"https://doi.org/10.1109/PERCOMW.2016.7457110","url":"https://dblp.org/rec/conf/percom/TegelundSL16"},
+"url":"URL#610956"
+},
+{
+"@score":"3",
+"@id":"1050140",
+"info":{"authors":{"author":["Xinxi Wang","Yi Wang 0006","David Hsu","Ye Wang"]},"title":"Exploration in Interactive Personalized Music Recommendation - A Reinforcement Learning Approach.","venue":"TOMCCAP","volume":"11","number":"1","pages":"7:1-7:22","year":"2014","type":"Journal Articles","key":"journals/tomccap/WangWHW14","doi":"10.1145/2623372","ee":"http://doi.acm.org/10.1145/2623372","url":"https://dblp.org/rec/journals/tomccap/WangWHW14"},
+"url":"URL#1050140"
+},
+{
+"@score":"3",
+"@id":"1055734",
+"info":{"authors":{"author":["Milos Rovcanin","Eli De Poorter","Ingrid Moerman","Piet Demeester"]},"title":"Coping with Network Dynamics Using Reinforcement Learning Based Network Optimization in Wireless Sensor Networks.","venue":"Wireless Personal Communications","volume":"76","number":"2","pages":"169-191","year":"2014","type":"Journal Articles","key":"journals/wpc/RovcaninPMD14","doi":"10.1007/S11277-014-1684-4","ee":"https://doi.org/10.1007/s11277-014-1684-4","url":"https://dblp.org/rec/journals/wpc/RovcaninPMD14"},
+"url":"URL#1055734"
+},
+{
+"@score":"3",
+"@id":"1083175",
+"info":{"authors":{"author":["Stefano Ferretti","Silvia Mirri","Catia Prandi","Paola Salomoni"]},"title":"Exploiting Reinforcement Learning to Profile Users and Personalize Web Pages.","venue":"COMPSAC Workshops","pages":"252-257","year":"2014","type":"Conference and Workshop Papers","key":"conf/compsac/FerrettiMPS14","doi":"10.1109/COMPSACW.2014.45","ee":"https://doi.org/10.1109/COMPSACW.2014.45","url":"https://dblp.org/rec/conf/compsac/FerrettiMPS14"},
+"url":"URL#1083175"
+},
+{
+"@score":"3",
+"@id":"1224054",
+"info":{"title":"Personalized Medical Treatments Using Novel Reinforcement Learning Algorithms.","venue":"CoRR","volume":"abs/1406.3922","year":"2014","type":"Withdrawn Items","key":"journals/corr/Soliman14","ee":"http://arxiv.org/abs/1406.3922","url":"https://dblp.org/rec/journals/corr/Soliman14"},
+"url":"URL#1224054"
+},
+{
+"@score":"3",
+"@id":"1323598",
+"info":{"authors":{"author":["Behrouz Shahgholi Ghahfarokhi","Naser Movahhedinia"]},"title":"A personalized QoE-aware handover decision based on distributed reinforcement learning.","venue":"Wireless Networks","volume":"19","number":"8","pages":"1807-1828","year":"2013","type":"Journal Articles","key":"journals/winet/GhahfarokhiM13","doi":"10.1007/S11276-013-0572-2","ee":"https://doi.org/10.1007/s11276-013-0572-2","url":"https://dblp.org/rec/journals/winet/GhahfarokhiM13"},
+"url":"URL#1323598"
+},
+{
+"@score":"3",
+"@id":"1323952",
+"info":{"authors":{"author":["Mohammad Fathi","Vafa Maihami","Parham Moradi"]},"title":"Reinforcement Learning for Multiple Access Control in Wireless Sensor Networks - Review, Model, and Open Issues.","venue":"Wireless Personal Communications","volume":"72","number":"1","pages":"535-547","year":"2013","type":"Journal Articles","key":"journals/wpc/FathiMM13","doi":"10.1007/S11277-013-1028-9","ee":"https://doi.org/10.1007/s11277-013-1028-9","url":"https://dblp.org/rec/journals/wpc/FathiMM13"},
+"url":"URL#1323952"
+},
+{
+"@score":"3",
+"@id":"1324406",
+"info":{"authors":{"author":["Yinglei Teng","F. Richard Yu","Ke Han","Yifei Wei","Yong Zhang"]},"title":"Reinforcement-Learning-Based Double Auction Design for Dynamic Spectrum Access in Cognitive Radio Networks.","venue":"Wireless Personal Communications","volume":"69","number":"2","pages":"771-791","year":"2013","type":"Journal Articles","key":"journals/wpc/TengYHWZ13","doi":"10.1007/S11277-012-0611-9","ee":"https://doi.org/10.1007/s11277-012-0611-9","url":"https://dblp.org/rec/journals/wpc/TengYHWZ13"},
+"url":"URL#1324406"
+},
+{
+"@score":"3",
+"@id":"1362777",
+"info":{"authors":{"author":["Elena Daskalaki","Peter Diem","Stavroula G. Mougiakakou"]},"title":"Personalized tuning of a reinforcement learning control algorithm for glucose regulation.","venue":"EMBC","pages":"3487-3490","year":"2013","type":"Conference and Workshop Papers","key":"conf/embc/DaskalakiDM13","doi":"10.1109/EMBC.2013.6610293","ee":"https://doi.org/10.1109/EMBC.2013.6610293","url":"https://dblp.org/rec/conf/embc/DaskalakiDM13"},
+"url":"URL#1362777"
+},
+{
+"@score":"3",
+"@id":"1396475",
+"info":{"authors":{"author":["Yabo Ni","Miao Zheng","Jiajun Bu","Chun Chen","Dazhou Wang"]},"title":"Personalized automatic image annotation based on reinforcement learning.","venue":"ICME","pages":"1-6","year":"2013","type":"Conference and Workshop Papers","key":"conf/icmcs/NiZBCW13","doi":"10.1109/ICME.2013.6607456","ee":"https://doi.org/10.1109/ICME.2013.6607456","url":"https://dblp.org/rec/conf/icmcs/NiZBCW13"},
+"url":"URL#1396475"
+},
+{
+"@score":"3",
+"@id":"1478561",
+"info":{"authors":{"author":["Xinxi Wang","Yi Wang 0006","David Hsu","Ye Wang"]},"title":"Exploration in Interactive Personalized Music Recommendation - A Reinforcement Learning Approach.","venue":"CoRR","volume":"abs/1311.6355","year":"2013","type":"Informal Publications","key":"journals/corr/WangWHW13","ee":"http://arxiv.org/abs/1311.6355","url":"https://dblp.org/rec/journals/corr/WangWHW13"},
+"url":"URL#1478561"
+},
+{
+"@score":"3",
+"@id":"1827810",
+"info":{"authors":{"author":["Xianfu Chen","Zhifeng Zhao","Honggang Zhang","Tao Chen"]},"title":"Reinforcement Learning Enhanced Iterative Power Allocation in Stochastic Cognitive Wireless Mesh Networks.","venue":"Wireless Personal Communications","volume":"57","number":"1","pages":"89-104","year":"2011","type":"Journal Articles","key":"journals/wpc/ChenZZC11","doi":"10.1007/S11277-010-0008-6","ee":"https://doi.org/10.1007/s11277-010-0008-6","url":"https://dblp.org/rec/journals/wpc/ChenZZC11"},
+"url":"URL#1827810"
+},
+{
+"@score":"3",
+"@id":"1828048",
+"info":{"authors":{"author":["Mengfei Yang","David Grace"]},"title":"Cognitive Radio with Reinforcement Learning Applied to Multicast Downlink Transmission with Power Adjustment.","venue":"Wireless Personal Communications","volume":"57","number":"1","pages":"73-87","year":"2011","type":"Journal Articles","key":"journals/wpc/YangG11","doi":"10.1007/S11277-010-0007-7","ee":"https://doi.org/10.1007/s11277-010-0007-7","url":"https://dblp.org/rec/journals/wpc/YangG11"},
+"url":"URL#1828048"
+},
+{
+"@score":"3",
+"@id":"1870750",
+"info":{"authors":{"author":["Ankit Malpani","Balaraman Ravindran","Hema Murthy"]},"title":"Personalized Intelligent Tutoring System Using Reinforcement Learning.","venue":"FLAIRS Conference","year":"2011","type":"Conference and Workshop Papers","key":"conf/flairs/MalpaniRM11","ee":"http://aaai.org/ocs/index.php/FLAIRS/FLAIRS11/paper/view/2597","url":"https://dblp.org/rec/conf/flairs/MalpaniRM11"},
+"url":"URL#1870750"
+},
+{
+"@score":"3",
+"@id":"2336836",
+"info":{"authors":{"author":["Hitoshi Iima","Yasuaki Kuroe"]},"title":"Swarm Reinforcement Learning Algorithm Based on Particle Swarm Optimization Whose Personal Bests Have Lifespans.","venue":"ICONIP","pages":"169-178","year":"2009","type":"Conference and Workshop Papers","key":"conf/iconip/IimaK09","doi":"10.1007/978-3-642-10684-2_19","ee":"https://doi.org/10.1007/978-3-642-10684-2_19","url":"https://dblp.org/rec/conf/iconip/IimaK09"},
+"url":"URL#2336836"
+},
+{
+"@score":"3",
+"@id":"3420195",
+"info":{"authors":{"author":["Byoung-Tak Zhang","Young-Woo Seo"]},"title":"Personalized Web-Document Filtering Using Reinforcement Learning.","venue":"Applied Artificial Intelligence","volume":"15","number":"6","pages":"665-685","year":"2001","type":"Journal Articles","key":"journals/aai/ZhangS01","doi":"10.1080/088395101750363993","ee":"https://doi.org/10.1080/088395101750363993","url":"https://dblp.org/rec/journals/aai/ZhangS01"},
+"url":"URL#3420195"
+},
+{
+"@score":"3",
+"@id":"3420196",
+"info":{"authors":{"author":["Byoung-Tak Zhang","Young-Woo Seo"]},"title":"Personalized Web-Document Filtering Using Reinforcement Learning.","venue":"Applied Artificial Intelligence","volume":"15","number":"7","pages":"665-685","year":"2001","type":"Journal Articles","key":"journals/aai/ZhangS01a","url":"https://dblp.org/rec/journals/aai/ZhangS01a"},
+"url":"URL#3420196"
+},
+{
+"@score":"3",
+"@id":"3558396",
+"info":{"authors":{"author":["Young-Woo Seo","Byoung-Tak Zhang"]},"title":"A reinforcement learning agent for personalized information filtering.","venue":"IUI","pages":"248-251","year":"2000","type":"Conference and Workshop Papers","key":"conf/iui/SeoZ00","doi":"10.1145/325737.325859","ee":"http://doi.acm.org/10.1145/325737.325859","url":"https://dblp.org/rec/conf/iui/SeoZ00"},
+"url":"URL#3558396"
+}
+]
+}
+}
+}

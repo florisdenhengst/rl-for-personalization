@@ -1,0 +1,213 @@
+1,Q-learning
+2,Seems Q-learning
+2,but not completely clear.
+4,Q-Learning
+5,Q-Learning
+10,Own unnamed variant
+11,Greedy outcome weighted tree
+11,Virtual Twins (VT)
+11,MIDAs
+11,LASSO
+11,optsel
+12,MDP
+14,Contextual bandits
+15,Q-learning with continuous state space
+15,fixed policy
+17,Q-Learning
+18,Q-learning
+19,Contextual bandit with BS (OBS)
+19,epsilon greedy
+19,Collaborative filtering
+19,LR
+19,random
+19,Thompson sampling
+20,continuous actor-critic learning automaton (CACLA)
+21,Q-learning
+22,CB variants with a lot of different variants (10+)
+23,Q-learning (slight variation) with different initializations.
+24,Q-learning
+25,Sarsa/inverse RL
+27,IRL with Softmax Policy Iteration (IRL-SP)
+27,IRL with Optimal Policy (IRL-OP) and Appreticeship Learning (AL)
+28,CRBL
+29,Q-Learning
+30,DYNA-Q
+31,Q-Learning
+32,Sarsa(λ) with -greedy action selection
+33,u
+34,Sarsa
+37,MORLA
+38,Q-Learning
+39,RL
+40,Q-Learning
+41,instance-based reinforcement learning
+42,Q-Learning
+43,WAIR (seems Q-learning variant)
+44,Q-Learning
+46,Q-Learning
+47,Maximum Entropy Inverse RL
+49,Q-Learning
+50,Case based reasoning combined with a bandit algorithm. Epsilon greedy iand a hybrid epsilon strategy (developed by the authors) are used.
+51,Q-Learning
+52,Actor-Critic
+53,SARSA
+54,RL (they have a formalisation but don't specify a name)
+55,Q-learning
+56,RL?
+57,AREOA
+59,RNN based RL
+62,SARSA(lambda)
+63,RL
+64,Q-learning
+64,Fitted Q-iteration
+65,Q-learning
+67,Q-Learning
+68,Q-learning with Bayesian active learning
+69,Contextual bandit
+70,Contextual bandit combined with stacking (called HyperTS and HyperTSFB)
+74,Q-learning
+75,Q-learning
+77,Policy iteration with epsilon greedy or softmax
+78,Random
+78,NetBandits
+78,GOB.lin
+78,and their own flavor (LS.lin)
+79,Policy iteration
+82,Q-Learning
+82,Policy Iteration
+83,hierarchical reinforcement learning
+84,Q-learning
+84,Multi-agent reinforcement learning
+87,Q-learning
+88,Deep Reinforcement Learning
+88,DQN
+89,Q-learning
+90,Actor-critict reinforcement learning
+91,NN
+92,Dynamic programming
+93,Dyna-Q
+94,LinUCB
+95,Latent Contextual Bandits
+95,LinUCB
+95,CLUB
+96,Bootstrap CB
+96,e-greedy CB
+96,LinUCB
+96,Thompson Sampling (with and without Regularization)
+97,(non-linear) contextual bandit
+98,model based RL
+99,Bayesian reinforcement learning
+100,Q-Learning
+102,Multiobjective Options (MO-Opt)
+102,Q-learning
+103,contextual multi-armed bandits (MAB)
+104,Policy Gradient
+105,Neural Fitted Q Iteration
+106,Unspecified
+107,Q-Learning
+108,Q-Learning
+109,Q-learning
+113,GP-RL
+114,Deep Reinforcement Learning
+116,Q-Learning
+117,Q-learning
+119,RL (no specific algorithm was mentioned)
+122,Q-Learning
+124,Q-Learning
+125,Q-Learning
+126,Q-Learning
+127,policy iteration algorithm
+129,Deep RL
+130,Q-Learning
+130,Actor-critic
+131,Policy Gradient
+132,RL
+134,Interactive Reinforcement Learning
+135,"High confidence off-policy evaluation
+(HCOPE)"
+136,Q-Learning
+137,Interactive Reinforcement Learning
+138,Interactive Reinforcement Learning
+139,Q-Learning
+140,Actor Critic
+142,SARSA
+144,Maximum Entropy IRL
+145,RL framework
+147,Optimistic Bayesian Sampling (OBS)
+147,Local Thompson Sampling (LTS)
+149,RL
+150,Q-Learning
+151,DQN
+152,Missing
+153,Multiple-Periodic Reinforcement Learning
+154,GA
+154,RL
+157,Q-Learning
+158,Inverse reinforcement learning
+158,baseline methods
+159,implemented Rl
+160,R-Learning
+162,Value Iteration
+162,Policy Iteration
+163,TD(0)
+164,Q-Learning
+165,Inverse Reinforcement Learning
+166,DQN
+166,DDQN
+166,Q-Learning
+166,Async QN
+166,Async DQN
+167,LinUCB
+167,Bayes-UCB
+168,Q-Learning
+169,contextual multi-armed bandit
+170,Kernel-UCB-Pool
+170,Kernel-UCB-Ind
+170,KMTL-UCB-Est
+170,KMTL-UCB
+171,Naive LinUCB
+171,CoFineUCB
+173,Diagnostic Recommendation Algorithm DRA (proposed)
+173,Neural−fuzzy approach
+173,Clinical approach LDA
+175,Q-Learning
+182,Inverse RL
+183,Actor-critic RL
+185,Actor Critic RL
+187,Q-Learning
+189,RL
+190,RL
+191,Q-Learning
+192,SARSA
+192,Q-Learning
+193,Actor-Critic
+194,Missing
+195,Monte Carlo
+195,Backward TD
+196,Q-Learning
+199,Q-Learning
+200,A-CLUB
+200,CLUB
+201,Online Reinforcement Learning
+202,Contextual bandits
+203,MLIRL
+205,LinRel
+207,RL (DJ-MC)
+208,Erev-Roth
+209,Erev-Roth RL and extensions
+210,Multi-layer neural networks
+212,Fitted Q-Iteration
+213,DDQN
+214,Q-Learning
+215,Q-Learning
+217,EM
+218,Missing
+219,SARSA
+221,CB
+222,Q-Learning
+224,DRL
+225,Q-learning (Vari-RL(Q) and Batch-AU)
+228,Q-Learning
+229,RL
+230,TD-Learning
+233,Model-Free Policy-based Reinforcement Learning

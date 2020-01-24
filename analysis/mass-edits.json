@@ -1,0 +1,948 @@
+[
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Actor-Critic",
+          "Actor-critic"
+        ],
+        "to": "Actor-Critic"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Policy Iteration",
+          "Policy iteration"
+        ],
+        "to": "Policy Iteration"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Inverse Reinforcement Learning",
+          "Inverse reinforcement learning"
+        ],
+        "to": "Inverse Reinforcement Learning"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "RL",
+          "RL?"
+        ],
+        "to": "Reinforcement Learning"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Fitted Q-Iteration",
+          "Fitted Q-iteration"
+        ],
+        "to": "Fitted Q-Iteration"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Q-Learning",
+          "Q-learning"
+        ],
+        "to": "Q-Learning"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "SARSA",
+          "Sarsa"
+        ],
+        "to": "SARSA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "DYNA-Q",
+          "Dyna-Q"
+        ],
+        "to": "DYNA-Q"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Random",
+          "random"
+        ],
+        "to": "Random"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Actor-Critic",
+          "Actor Critic"
+        ],
+        "to": "Actor-Critic"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Actor Critic RL",
+          "Actor-critic RL"
+        ],
+        "to": "Actor-Critic"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Contextual bandits",
+          "Contextual bandit",
+          "Contextual bandit combined with stacking (called HyperTS and HyperTSFB)",
+          "Contextual bandit with BS (OBS)"
+        ],
+        "to": "Contextual Bandits"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Thompson Sampling (with and without Regularization)",
+          "Thompson sampling"
+        ],
+        "to": "Thompson Sampling"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Maximum Entropy IRL",
+          "Maximum Entropy Inverse RL"
+        ],
+        "to": "Maximum Entropy IRL"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "contextual multi-armed bandit",
+          "contextual multi-armed bandits (MAB)"
+        ],
+        "to": "Contextual Bandits"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Actor-Critic",
+          "Actor-critict reinforcement learning"
+        ],
+        "to": "Actor-Critic"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "SARSA",
+          "SARSA(lambda)"
+        ],
+        "to": "SARSA"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "LinUCB",
+          "Naive LinUCB"
+        ],
+        "to": "LinUCB"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Fitted Q-Iteration",
+          "Neural Fitted Q Iteration"
+        ],
+        "to": "Fitted Q-Iteration"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Kernel-UCB-Ind",
+          "Kernel-UCB-Pool"
+        ],
+        "to": "UCB"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Thompson Sampling",
+          "Local Thompson Sampling (LTS)"
+        ],
+        "to": "Thompson Sampling"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Contextual Bandits",
+          "Latent Contextual Bandits"
+        ],
+        "to": "Contextual Bandits"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Seems Q-learning",
+          "WAIR (seems Q-learning variant)"
+        ],
+        "to": "Q-learning"
+      },
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "KMTL-UCB",
+          "KMTL-UCB-Est"
+        ],
+        "to": "UCB"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "CB"
+        ],
+        "to": "Contextual Bandits"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "CB variants with a lot of different variants (10+)"
+        ],
+        "to": "Contextual Bandits"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "(non-linear) contextual bandit"
+        ],
+        "to": "Contextual Bandits"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Bayes-UCB"
+        ],
+        "to": "UCB"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Bayesian reinforcement learning"
+        ],
+        "to": "Reinforcement Learning"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "continuous actor-critic learning automaton (CACLA)"
+        ],
+        "to": "Actor-Critic"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Deep RL"
+        ],
+        "to": "Deep Reinforcement Learning"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "DRL"
+        ],
+        "to": "Deep Reinforcement Learning"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "e-greedy CB"
+        ],
+        "to": "Contextual Bandits"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "implemented Rl"
+        ],
+        "to": "Reinforcement Learning"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Inverse RL"
+        ],
+        "to": "Inverse Reinforcement Learning"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "IRL with Optimal Policy (IRL-OP) and Appreticeship Learning (AL)"
+        ],
+        "to": "Inverse Reinforcement Learning"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "IRL with Softmax Policy Iteration (IRL-SP)"
+        ],
+        "to": "Inverse Reinforcement Learning"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Maximum Entropy IRL"
+        ],
+        "to": "Inverse Reinforcement Learning"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Missing"
+        ],
+        "to": "Reinforcement Learning"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Multi-agent reinforcement learning"
+        ],
+        "to": "Multi-agent Reinforcement Learning"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Online Reinforcement Learning"
+        ],
+        "to": "Reinforcement Learning"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Own unnamed variant"
+        ],
+        "to": "Reinforcement Learning"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "policy iteration algorithm"
+        ],
+        "to": "Policy Iteration"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Policy iteration with epsilon greedy or softmax"
+        ],
+        "to": "Policy Iteration"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Q-learning"
+        ],
+        "to": "Q-Learning"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Q-learning (slight variation) with different initializations."
+        ],
+        "to": "Q-Learning"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Q-learning (Vari-RL(Q) and Batch-AU)"
+        ],
+        "to": "Q-Learning"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Q-learning with Bayesian active learning"
+        ],
+        "to": "Q-Learning"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Q-learning with continuous state space"
+        ],
+        "to": "Q-Learning"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "RL (DJ-MC)"
+        ],
+        "to": "Reinforcement Learning"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "RL (no specific algorithm was mentioned)"
+        ],
+        "to": "Reinforcement Learning"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "RL (they have a formalisation but don't specify a name)"
+        ],
+        "to": "other"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "RL framework"
+        ],
+        "to": "Reinforcement Learning"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Sarsa(λ) with \u000f-greedy action selection"
+        ],
+        "to": "SARSA"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "TD(0)"
+        ],
+        "to": "TD-Learning"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Unspecified"
+        ],
+        "to": "Reinforcement Learning"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "fixed policy"
+        ],
+        "to": "baseline methods"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column Column 2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "Column 2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Bootstrap CB"
+        ],
+        "to": "Contextual Bandits"
+      }
+    ]
+  }
+]

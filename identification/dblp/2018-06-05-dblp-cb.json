@@ -1,0 +1,86 @@
+{
+"result":{
+"query":"contextual* bandit* personalization*|personalized*|personal*|personalisation*|personalised*|customization*|customized*|customised*|customised*|individualized*|individualised*|tailored*",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"1.00"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"9",
+"@dc":"9",
+"@oc":"9",
+"@id":"19518324",
+"text":"personalized"
+}
+},
+"hits":{
+"@total":"9",
+"@computed":"9",
+"@sent":"9",
+"@first":"0",
+"hit":[{
+"@score":"3",
+"@id":"264264",
+"info":{"authors":{"author":["Indu Manickam","Andrew S. Lan","Richard G. Baraniuk"]},"title":"Contextual multi-armed bandit algorithms for personalized learning action selection.","venue":"ICASSP","pages":"6344-6348","year":"2017","type":"Conference and Workshop Papers","key":"conf/icassp/ManickamLB17","doi":"10.1109/ICASSP.2017.7953377","ee":"https://doi.org/10.1109/ICASSP.2017.7953377","url":"https://dblp.org/rec/conf/icassp/ManickamLB17"},
+"url":"URL#264264"
+},
+{
+"@score":"3",
+"@id":"359532",
+"info":{"authors":{"author":["Huitian Lei","Ambuj Tewari","Susan A. Murphy"]},"title":"An Actor-Critic Contextual Bandit Algorithm for Personalized Mobile Health Interventions.","venue":"CoRR","volume":"abs/1706.09090","year":"2017","type":"Informal Publications","key":"journals/corr/LeiTM17","ee":"http://arxiv.org/abs/1706.09090","url":"https://dblp.org/rec/journals/corr/LeiTM17"},
+"url":"URL#359532"
+},
+{
+"@score":"3",
+"@id":"534724",
+"info":{"authors":{"author":["Andrew S. Lan","Richard G. Baraniuk"]},"title":"A Contextual Bandits Framework for Personalized Learning Action Selection.","venue":"EDM","pages":"424-429","year":"2016","type":"Conference and Workshop Papers","key":"conf/edm/LanB16","ee":"http://www.educationaldatamining.org/EDM2016/proceedings/paper_18.pdf","url":"https://dblp.org/rec/conf/edm/LanB16"},
+"url":"URL#534724"
+},
+{
+"@score":"3",
+"@id":"579784",
+"info":{"authors":{"author":["Li Zhou","Emma Brunskill"]},"title":"Latent Contextual Bandits and their Application to Personalized Recommendations for New Users.","venue":"IJCAI","pages":"3646-3653","year":"2016","type":"Conference and Workshop Papers","key":"conf/ijcai/ZhouB16","ee":"http://www.ijcai.org/Abstract/16/513","url":"https://dblp.org/rec/conf/ijcai/ZhouB16"},
+"url":"URL#579784"
+},
+{
+"@score":"3",
+"@id":"668239",
+"info":{"authors":{"author":["Li Zhou","Emma Brunskill"]},"title":"Latent Contextual Bandits and their Application to Personalized Recommendations for New Users.","venue":"CoRR","volume":"abs/1604.06743","year":"2016","type":"Informal Publications","key":"journals/corr/ZhouB16","ee":"http://arxiv.org/abs/1604.06743","url":"https://dblp.org/rec/journals/corr/ZhouB16"},
+"url":"URL#668239"
+},
+{
+"@score":"3",
+"@id":"906176",
+"info":{"authors":{"author":["Liang Tang","Yexi Jiang","Lei Li 0001","Chunqiu Zeng","Tao Li 0001"]},"title":"Personalized Recommendation via Parameter-Free Contextual Bandits.","venue":"SIGIR","pages":"323-332","year":"2015","type":"Conference and Workshop Papers","key":"conf/sigir/TangJLZL15","doi":"10.1145/2766462.2767707","ee":"http://doi.acm.org/10.1145/2766462.2767707","url":"https://dblp.org/rec/conf/sigir/TangJLZL15"},
+"url":"URL#906176"
+},
+{
+"@score":"3",
+"@id":"1173426",
+"info":{"authors":{"author":["Liang Tang","Yexi Jiang","Lei Li 0001","Tao Li 0001"]},"title":"Ensemble contextual bandits for personalized recommendation.","venue":"RecSys","pages":"73-80","year":"2014","type":"Conference and Workshop Papers","key":"conf/recsys/TangJLL14","doi":"10.1145/2645710.2645732","ee":"http://doi.acm.org/10.1145/2645710.2645732","url":"https://dblp.org/rec/conf/recsys/TangJLL14"},
+"url":"URL#1173426"
+},
+{
+"@score":"3",
+"@id":"2181260",
+"info":{"authors":{"author":["Lihong Li 0001","Wei Chu","John Langford 0001","Robert E. Schapire"]},"title":"A contextual-bandit approach to personalized news article recommendation.","venue":"WWW","pages":"661-670","year":"2010","type":"Conference and Workshop Papers","key":"conf/www/LiCLS10","doi":"10.1145/1772690.1772758","ee":"http://doi.acm.org/10.1145/1772690.1772758","url":"https://dblp.org/rec/conf/www/LiCLS10"},
+"url":"URL#2181260"
+},
+{
+"@score":"3",
+"@id":"2189198",
+"info":{"authors":{"author":["Lihong Li 0001","Wei Chu","John Langford 0001","Robert E. Schapire"]},"title":"A Contextual-Bandit Approach to Personalized News Article Recommendation","venue":"CoRR","volume":"abs/1003.0146","year":"2010","type":"Informal Publications","key":"journals/corr/abs-1003-0146","ee":"http://arxiv.org/abs/1003.0146","url":"https://dblp.org/rec/journals/corr/abs-1003-0146"},
+"url":"URL#2189198"
+}
+]
+}
+}
+}
