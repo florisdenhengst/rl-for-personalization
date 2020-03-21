@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/236028734.svg)](https://zenodo.org/badge/latestdoi/236028734)
+
 Data collected for "A Systematic Review of Reinforcement Learning for Personalization"
 by Floris den Hengst, Eoin Grua, Ali el Hassouni and Mark Hoogendoorn.
 
